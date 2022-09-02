@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Tech-He1p
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Hi there! My name is Alexander Davis and this is my first class project, for the HTML language.
+While my code may not be fully optimized, I plan for this project have full  utility with 
+no errors. 
+
+Thanks for taking the time to read and navigate my code!
+--->
